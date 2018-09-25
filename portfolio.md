@@ -4,7 +4,7 @@
 
 #### 1.1. 서비스 개요
 
-![](https://ws2.sinaimg.cn/large/006tNc79gy1frc0eu5nhoj30l40tuk8k.jpg)
+![](https://ws4.sinaimg.cn/large/006tNbRwgy1fvliphexdwj30ih0q4nam.jpg)
 
 - [서비스 UI 시나리오 링크](https://www.slideshare.net/jhlee0609/date-pick-ui)
 - [사업 계획서 링크](https://www.slideshare.net/jhlee0609/date-pick)
