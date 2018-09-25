@@ -2,7 +2,7 @@
 
 ## 1. 위치 기반 데이트 플래너, Date Pick App
 
-#### 1.1. 서비스 개요
+### 1.1. 서비스 개요
 
 ![](https://ws4.sinaimg.cn/large/006tNbRwgy1fvliphexdwj30ih0q4nam.jpg)
 
