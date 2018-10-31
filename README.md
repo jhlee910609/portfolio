@@ -83,13 +83,3 @@
 ### 4.3. 결과
 
 - [웹 페이지 바로가기](http://hyueureka.cafe24.com/2016/index.html)
-
-
-
-## 5. 데이터 애널리틱스 강의 과제 <2030 영화 소비 행태>
-
-### 5.1. 진행 과정
-
-- <영화 진흥 위원회> raw data로 과제 수행
-- 분석 툴 : SPSS, Excel
-- [보고서 바로가기](https://drive.google.com/file/d/1pHSJV7SuyVbQIkBJlfjP796eo0NKrauE/view)
