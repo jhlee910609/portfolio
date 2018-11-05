@@ -54,13 +54,13 @@
 ![](https://camo.githubusercontent.com/f5c76f27b435b86712aab8b59fb956962858d01e/68747470733a2f2f7773342e73696e61696d672e636e2f6c617267652f303036744b66546367793166696e347734613077306a3330623430386777656e2e6a7067)
 
 - 현재 날씨에 맞는 Daily Look 추천 및 구매까지 연계할 수 있는 날씨 앱, C-Look
-- [간단한 flow shart](https://www.slideshare.net/jhlee0609/clook-application-flow-chart/1)
+- [간단한 flow chart](https://www.slideshare.net/jhlee0609/clook-application-flow-chart/1)
 
 ### 3.2. 개발과정
 
 - 협업 툴 : Zeplin, Trello
 - UI/UX 디자이너 1명과 함께 협업 진행
-- 직업 기획 및 개발, 2주간 해커톤 형식으로 프로젝트 진행
+- 직업 기획 및 개발, 2달간 프로젝트 진행
 
 ### 3.3. 결과
 
