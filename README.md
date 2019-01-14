@@ -54,7 +54,7 @@
 ![](https://camo.githubusercontent.com/f5c76f27b435b86712aab8b59fb956962858d01e/68747470733a2f2f7773342e73696e61696d672e636e2f6c617267652f303036744b66546367793166696e347734613077306a3330623430386777656e2e6a7067)
 
 - 현재 날씨에 맞는 Daily Look 추천 및 구매까지 연계할 수 있는 날씨 앱, C-Look
-- [간단한 flow chart](https://www.slideshare.net/jhlee0609/clook-application-flow-chart/1)
+- [간단한 flow chart](https://www.slideshare.net/secret/LhEkZSZkzFY7fh)
 
 ### 3.2. 개발과정
 
