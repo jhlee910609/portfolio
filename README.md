@@ -64,7 +64,7 @@
 
 ### 3.3. 결과
 
-- [구동영상 링크](https://www.youtube.com/watch?v=N0Khy7a2ZZQ)
+- [구동영상 링크](https://www.youtube.com/watch?v=ED6ZTjqFdNE)
 
 
 
