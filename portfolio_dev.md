@@ -79,5 +79,3 @@
 
 - 웹 편집팀 4명, 컴퓨터 공학과 학생 1명과 웹 구축 진행
 - 개발 공수를 줄이기 위해 WordPress 템플릿을 활용하여 개발 진행
-
-- https://drive.google.com/file/d/1pHSJV7SuyVbQIkBJlfjP796eo0NKrauE/view)
